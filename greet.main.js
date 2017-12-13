@@ -1,7 +1,6 @@
 var display = document.getElementById('toDisplay');
 var results = document.querySelector('#result');
 var firstName = document.getElementById("user_input");
-// var checkedLanguage = languagesGreeted();
 
 var namesGreeted = {};
 // display the counter on page load
